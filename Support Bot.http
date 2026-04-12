@@ -1,0 +1,6 @@
+@Support_Bot_HostAddress = http://localhost:5292
+
+GET {{Support_Bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
